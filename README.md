@@ -1,0 +1,2 @@
+# Locale_Interview_Task
+Analysis of XRides data Area ,Day and Hour wise  to get insights about the maximum bookings in which area and peak time of bookings 
